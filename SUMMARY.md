@@ -10,3 +10,8 @@
 
 * [Beginner](git/beginner.md)
 * [Page 1](git/page-1.md)
+
+## 👨💻 JavaScript
+
+* [Introduction](javascript/introduction.md)
+* [Statements](javascript/statements.md)
