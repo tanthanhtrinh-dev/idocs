@@ -1,3 +1,11 @@
-# iDocs - Lưu lại cần là có
+---
+description: Một số thông tin hay copy
+---
+
+# 🏠 Home
+
+## Typescript
+
 ***
-# Coming Soon
+
+## AWS
