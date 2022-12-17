@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Home](README.md)
+* [🏠 Home](README.md)
 
-## Group 1
+## AWS
 
-* [AWS](group-1/aws.md)
+* [😅 S3](aws/s3.md)
