@@ -6,6 +6,7 @@
 
 * [Introduction](javascript/introduction.md)
 * [Statements](javascript/statements.md)
+* [Reserved keywords](javascript/reserved-keywords.md)
 
 ## AWS
 

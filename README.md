@@ -1,11 +1,3 @@
----
-description: Một số thông tin hay copy
----
-
-# 🏠 Home
-
-## Typescript
-
+# iDocs - Lưu lại cần là có
 ***
-
-## AWS
+# Coming Soon
