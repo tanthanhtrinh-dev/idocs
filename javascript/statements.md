@@ -1,4 +1,14 @@
+---
+description: >-
+  These programming instructions are called statements as Values, Operators,
+  Expressions, Keywords, and Comments.
+---
+
 # Statements
-***
-These programming instructions are called **statements**\
-****Values, Operators, Expressions, Keywords, and Comments.
+
+```javascript
+let a;
+let b;
+let c = a + b
+```
+
